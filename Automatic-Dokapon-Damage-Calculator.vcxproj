@@ -19,21 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DolphinAccessor.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="MainClasses.cpp" />
-    <ClCompile Include="MemoryCommon.cpp" />
-    <ClCompile Include="WindowsDolphinProcess.cpp" />
+    <ClInclude Include="Source\CommonTypes.h" />
+    <ClInclude Include="Source\CommonUtils.h" />
+    <ClInclude Include="Source\DolphinAccessor.h" />
+    <ClInclude Include="Source\IDolphinProcess.h" />
+    <ClInclude Include="Source\MainClasses.h" />
+    <ClInclude Include="Source\MemoryCommon.h" />
+    <ClInclude Include="Source\Utils.h" />
+    <ClInclude Include="Source\WindowsDolphinProcess.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CommonTypes.h" />
-    <ClInclude Include="CommonUtils.h" />
-    <ClInclude Include="DolphinAccessor.h" />
-    <ClInclude Include="IDolphinProcess.h" />
-    <ClInclude Include="MainClasses.h" />
-    <ClInclude Include="MemoryCommon.h" />
-    <ClInclude Include="Utils.h" />
-    <ClInclude Include="WindowsDolphinProcess.h" />
+    <ClCompile Include="Source\DolphinAccessor.cpp" />
+    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\MainClasses.cpp" />
+    <ClCompile Include="Source\MemoryCommon.cpp" />
+    <ClCompile Include="Source\WindowsDolphinProcess.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
