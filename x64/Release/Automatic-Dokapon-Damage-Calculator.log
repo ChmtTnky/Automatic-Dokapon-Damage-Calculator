@@ -1,0 +1,15 @@
+﻿  DolphinAccessor.cpp
+C:\Users\jajo7\source\repos\Automatic-Dokapon-Damage-Calculator\IDolphinProcess.h(43,31): warning C4244: 'return': conversion from 'u64' to 'u32', possible loss of data
+  Main.cpp
+C:\Users\jajo7\source\repos\Automatic-Dokapon-Damage-Calculator\IDolphinProcess.h(43,31): warning C4244: 'return': conversion from 'u64' to 'u32', possible loss of data
+  MainClasses.cpp
+C:\Users\jajo7\source\repos\Automatic-Dokapon-Damage-Calculator\IDolphinProcess.h(43,31): warning C4244: 'return': conversion from 'u64' to 'u32', possible loss of data
+  MemoryCommon.cpp
+  WindowsDolphinProcess.cpp
+C:\Users\jajo7\source\repos\Automatic-Dokapon-Damage-Calculator\IDolphinProcess.h(43,31): warning C4244: 'return': conversion from 'u64' to 'u32', possible loss of data
+  Generating code
+  496 of 576 functions (86.1%) were compiled, the rest were copied from previous compilation.
+    310 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Automatic-Dokapon-Damage-Calculator.vcxproj -> C:\Users\jajo7\source\repos\Automatic-Dokapon-Damage-Calculator\x64\Release\Automatic-Dokapon-Damage-Calculator.exe
