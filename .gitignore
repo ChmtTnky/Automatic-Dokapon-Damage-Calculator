@@ -8,6 +8,7 @@
 *.obj
 
 # Precompiled Headers
+*.ipch
 *.gch
 *.pch
 
@@ -31,4 +32,5 @@
 *.out
 *.app
 
-.ipch
+\.vs
+\.git
